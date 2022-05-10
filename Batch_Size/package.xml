@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>BatchManager</members>
+        <members>BatchManager_Test</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>BatchSize__mdt.Size__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
+        <members>BatchSize.DefaultOrgBatchSize</members>
+        <name>CustomMetadata</name>
+    </types>
+    <types>
+        <members>BatchSize__mdt</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>BatchSize__mdt-BatchSize Layout</members>
+        <name>Layout</name>
+    </types>
+    <types>
+        <members>BatchSizeAccess</members>
+        <name>PermissionSet</name>
+    </types>
+    <types>
+        <members>BatchSize__mdt.Max_Size_Value</members>
+        <name>ValidationRule</name>
+    </types>
+    <version>54.0</version>
+</Package>
